@@ -1,0 +1,31 @@
+.imageCard{
+    
+}
+
+.wrapper{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:20px;
+}
+
+.renderUsers{
+    
+    margin: 0 auto;
+    height: 426px;
+    overflow-y: auto;
+    overflow-x: hidden
+}
+
+.renderUsersScroll,.userRender,.header1{
+    box-shadow: 0 0 10px #c8adad !important;
+    border: none !important;
+    border-radius: .28571429rem !important;
+    text-align:center;
+    padding: 3px;
+}
+
+.ui.items{
+    margin: 2px;
+    box-shadow: 0 0 5px #9c8686;
+    border: 1px solid #bbb0b0;
+}
